@@ -1,2 +1,2 @@
 # IsmailRabah
-development informatique (Ado.Net/ Asp.Net/Java/Android/php /html5/Css3/Javascript/jquery/slq/mysql/ ...)
+I am a Chief Technology Officer and Full-Stack Architect passionate about turning complex technical challenges into streamlined digital products. Throughout my career, I’ve progressed from hands-on software development to leading cross-functional engineering teams of up to 8 developers. Today, as CTO at 4Tech Lab, I partner with clients worldwide to deliver cutting-edge web, mobile, and enterprise solutions. I thrive at the intersection of leadership and code—focusing on mentorship, continuous delivery, and building high-performing development teams in a snap.
